@@ -1,0 +1,5 @@
+E:\vinothkanth\Assesment\TicketVendingMachine\DataCollection\obj\Debug\DataCollection.csprojResolveAssemblyReference.cache
+E:\vinothkanth\Assesment\TicketVendingMachine\DataCollection\bin\Debug\DataCollection.exe
+E:\vinothkanth\Assesment\TicketVendingMachine\DataCollection\bin\Debug\DataCollection.pdb
+E:\vinothkanth\Assesment\TicketVendingMachine\DataCollection\obj\Debug\DataCollection.exe
+E:\vinothkanth\Assesment\TicketVendingMachine\DataCollection\obj\Debug\DataCollection.pdb
